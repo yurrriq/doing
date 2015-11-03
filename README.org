@@ -1,2 +1,5 @@
 * LATER Master Magit
   <2015-11-03 Tue 00:40>
+- [[http://magit.vc][Magit! A Git Porcelain inside Emacs]]
+- [[http://magit.vc/manual/magit-refcard.pdf][Magit Reference Card]]
+- [[http://magit.vc/manual/magit][Magit User Manual]]
