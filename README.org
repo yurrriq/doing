@@ -1,5 +1,48 @@
+* LATER Write a Flycheck checker for SwiftLint
+  - State "LATER"      from "TODO"       [2016-03-19 Sat 19:28]
+  <2015-12-03 Thu 03:54>
+- [[http://www.flycheck.org/manual/latest/Defining-syntax-checkers.html#Defining-syntax-checkers][Defining syntax checkers]]
+- [[https://github.com/realm/SwiftLint][SwiftLint]]
+
 * LATER Master Magit
   <2015-11-03 Tue 00:40>
 - [[http://magit.vc][Magit! A Git Porcelain inside Emacs]]
 - [[http://magit.vc/manual/magit-refcard.pdf][Magit Reference Card]]
 - [[http://magit.vc/manual/magit][Magit User Manual]]
+
+* SOMEDAY Erlang stuff to check out
+- [[https://github.com/massemanet/eper][massemanet/eper]]
+  [[http://roberto-aloi.com/erlang/profiling-erlang-applications-using-redbug/][Profiling Erlang Apps using Redbug]]
+- [[https://github.com/dieu/kucumberl][dieu/kucumberl]]
+  A pure Erlang implementation of [[https://cucumber.io][Cucumber]].
+- [[https://github.com/aggelgian/cuter][aggelgian/cuter]]
+  Concolic unit testing tool for Erlang.
+  Conc(rete) + (symb)olic = concolic
+- [[https://barrel-db.org][Barrel]]
+  A P2P document-oriented database with modern features.
+- [[http://alexott.net/en/fp/books/#sec8][Erlang FP books]]
+- [[https://github.com/uwiger/setup][uwiger/setup]]
+  Generic setup utility for Erlang-based systems.
+
+* Add documentation support to the LFE compiler
+- [[https://github.com/elixir-lang/elixir/blob/5f285a9a0ae64bff3e61c89e07a1bff41433d7ae/lib/elixir/lib/module.ex#L597][Elixir.Module.add_doc/6]]
+- [[https://github.com/elixir-lang/elixir/blob/77f2558cf59dac25371dd5d3aff7ab7604ca4ac1/lib/elixir/src/elixir_config.erl][elixir_config.erl]]
+- [[http://erlang.org/doc/man/beam_lib.html#chunks-2][beam_lib:chunks/2]]
+- [[http://erlang.org/doc/man/ets.html][ets]]
+
+* lmug and dragon
+- [[https://github.com/lfex/rebar3-dragon/issues/1][Create a new Dragon web app skeleton]]
+- [[https://github.com/lfex/lfetool/tree/stable/plugins][lfetool templates]]
+- [[https://github.com/lfex/lmug/issues][Flesh out lmug]]
+- [[https://github.com/lfex/lmug-elli][lmug-elli]]
+  An lmug adapter that uses the elli web server.
+- [[https://github.com/ring-clojure/ring/blob/master/ring-core/src/ring/util/request.clj][ring.util.request]]
+- [[https://github.com/knutin/elli/blob/master/include/elli.hrl][elli.hrl]]
+
+* Lodox 1.0
+- [[https://github.com/quasiquoting/lodox/issues/55][Odd behaviour with rebar3 profiles]]
+
+* Flesh out JSON resume
+- [[https://github.com/yurrriq/resume][yurrriq/resume]]
+- [[https://jsonresume.org/schema/][JSON Resume schema]]
+- [[http://yurrriq.codes/resume/][yurrriq.codes/resume]]
