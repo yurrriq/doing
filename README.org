@@ -46,3 +46,9 @@
 - [[https://github.com/yurrriq/resume][yurrriq/resume]]
 - [[https://jsonresume.org/schema/][JSON Resume schema]]
 - [[http://yurrriq.codes/resume/][yurrriq.codes/resume]]
+
+* SOMEDAY Learn Elm
+- [[https://github.com/evancz/elm-architecture-tutorial/][The Elm Architecture]]
+
+* SOMEDAY Buy and read /Type Theory and Formal Proof: An Introduction/
+[[http://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X][Amazon]]
